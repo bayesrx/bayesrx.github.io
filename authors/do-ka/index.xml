@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Do, KA on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/do-ka/</link>
+    <description>Recent content in Do, KA on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/do-ka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DINGO: differential network analysis in genomics</title>
+      <link>https://bayesrx.github.io/publication/dingo/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/dingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Bayesian hierarchical structured variable selection methods with application to MIP studies in breast cancer.</title>
+      <link>https://bayesrx.github.io/publication/fda_-bayeshierstructvarselmip/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_-bayeshierstructvarselmip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic gene signature identification using causal structure learning: applications in kidney cancer. </title>
+      <link>https://bayesrx.github.io/publication/prognosticgeneidenstructurelearning/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/prognosticgeneidenstructurelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative network-based Bayesian analysis of diverse genomics data</title>
+      <link>https://bayesrx.github.io/publication/-intnetworkbayesiandiversegeno/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/-intnetworkbayesiandiversegeno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian ensemble methods for survival prediction in gene expression data</title>
+      <link>https://bayesrx.github.io/publication/fda_bayeensemblesurvpredexpr/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayeensemblesurvpredexpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Shared Copy Number Aberrations for Array CGH Data: the Linear-Median Method</title>
+      <link>https://bayesrx.github.io/publication/fda_estcghlinear-med/</link>
+      <pubDate>Sun, 12 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_estcghlinear-med/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

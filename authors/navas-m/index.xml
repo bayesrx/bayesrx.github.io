@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navas, M on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/navas-m/</link>
+    <description>Recent content in Navas, M on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jul 2010 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/navas-m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast PCA and Bayesian Variable Selection for Large Data Sets Based on SQL and UDFs</title>
+      <link>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

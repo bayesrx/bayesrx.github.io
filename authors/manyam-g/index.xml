@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manyam, G on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/manyam-g/</link>
+    <description>Recent content in Manyam, G on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/manyam-g/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PCAN: Probabilistic correlation analysis of two non-normal data sets</title>
+      <link>https://bayesrx.github.io/publication/pcan/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/pcan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBAG: integrative Bayesian analysis of high-dimensional multiplatform genomics data</title>
+      <link>https://bayesrx.github.io/publication/ibag/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/ibag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

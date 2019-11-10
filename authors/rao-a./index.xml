@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rao, A. on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/rao-a./</link>
+    <description>Recent content in Rao, A. on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/rao-a./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Radiologic image‐based statistical shape analysis of brain tumours</title>
+      <link>https://bayesrx.github.io/publication/radimagestatshape-analysis-/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/radimagestatshape-analysis-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

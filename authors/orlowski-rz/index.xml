@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orlowski, RZ on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/orlowski-rz/</link>
+    <description>Recent content in Orlowski, RZ on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Dec 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/orlowski-rz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Joint Selection of Genes and Pathways: Applications in Multiple Myeloma Genomics. Cancer</title>
+      <link>https://bayesrx.github.io/publication/bayejtselgenespathways/</link>
+      <pubDate>Sun, 07 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayejtselgenespathways/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

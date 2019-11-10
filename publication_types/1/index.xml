@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on BayesRx</title>
+    <link>https://bayesrx.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrative Sparse Bayesian analysis of high- dimensional multi-platform Genomic data in Glioblastoma</title>
+      <link>https://bayesrx.github.io/publication/intmulti-modalcorimggenoglioblastoma/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intmulti-modalcorimggenoglioblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis of multi-modal correlated imaging-genomics data in glioblastoma</title>
+      <link>https://bayesrx.github.io/publication/intsparsebayesianhighdimgenoglioblastoma/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intsparsebayesianhighdimgenoglioblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data mining algorithms as a service in the cloud exploiting relational database systems</title>
+      <link>https://bayesrx.github.io/publication/dataminingalgcloudreldata/</link>
+      <pubDate>Sat, 22 Jun 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/dataminingalgcloudreldata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Bayesian methods for integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/hierbayesintgenomics/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/hierbayesintgenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast PCA and Bayesian Variable Selection for Large Data Sets Based on SQL and UDFs</title>
+      <link>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

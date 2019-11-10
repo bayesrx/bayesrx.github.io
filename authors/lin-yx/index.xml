@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lin, YX on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/lin-yx/</link>
+    <description>Recent content in Lin, YX on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2010 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/lin-yx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating Shared Copy Number Aberrations for Array CGH Data: the Linear-Median Method</title>
+      <link>https://bayesrx.github.io/publication/fda_estcghlinear-med/</link>
+      <pubDate>Sun, 12 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_estcghlinear-med/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

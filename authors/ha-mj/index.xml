@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ha, MJ on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/ha-mj/</link>
+    <description>Recent content in Ha, MJ on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/ha-mj/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DINGO: differential network analysis in genomics</title>
+      <link>https://bayesrx.github.io/publication/dingo/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/dingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic gene signature identification using causal structure learning: applications in kidney cancer. </title>
+      <link>https://bayesrx.github.io/publication/prognosticgeneidenstructurelearning/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/prognosticgeneidenstructurelearning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

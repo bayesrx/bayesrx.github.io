@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carroll RJ on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/carroll-rj/</link>
+    <description>Recent content in Carroll RJ on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/carroll-rj/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PCAN: Probabilistic correlation analysis of two non-normal data sets</title>
+      <link>https://bayesrx.github.io/publication/pcan/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/pcan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian methods for expression-based integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/bayesianexpintgeno/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesianexpintgeno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Bayesian methods for integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/hierbayesintgenomics/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/hierbayesintgenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced rank mixed effects models for spatially correlated hierarchical functional data.</title>
+      <link>https://bayesrx.github.io/publication/fda_reducedrankmixedeffectsspatialcorrelated/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_reducedrankmixedeffectsspatialcorrelated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Spatially Correlated Functional Data Analysis with Application to Colon Carcinogenesis</title>
+      <link>https://bayesrx.github.io/publication/fda_bayeshierspatialcorcolon/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayeshierspatialcorcolon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

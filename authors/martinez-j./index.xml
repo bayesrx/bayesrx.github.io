@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martinez, J. on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/martinez-j./</link>
+    <description>Recent content in Martinez, J. on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/martinez-j./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DEMARCATE: Density-based magnetic resonance image clustering for assessing tumor heterogeneity in cancer</title>
+      <link>https://bayesrx.github.io/publication/demarcate/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/demarcate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

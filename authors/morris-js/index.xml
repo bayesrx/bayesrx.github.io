@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morris JS on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/morris-js/</link>
+    <description>Recent content in Morris JS on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Dec 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/morris-js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Joint Selection of Genes and Pathways: Applications in Multiple Myeloma Genomics. Cancer</title>
+      <link>https://bayesrx.github.io/publication/bayejtselgenespathways/</link>
+      <pubDate>Sun, 07 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayejtselgenespathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis of multi-modal correlated imaging-genomics data in glioblastoma</title>
+      <link>https://bayesrx.github.io/publication/intsparsebayesianhighdimgenoglioblastoma/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intsparsebayesianhighdimgenoglioblastoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian methods for expression-based integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/bayesianexpintgeno/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesianexpintgeno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Bayesian methods for integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/hierbayesintgenomics/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/hierbayesintgenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBAG: integrative Bayesian analysis of high-dimensional multiplatform genomics data</title>
+      <link>https://bayesrx.github.io/publication/ibag/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/ibag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Random Segmentation Models to Identify Shared Copy Number Aberrations for Array CGH Data</title>
+      <link>https://bayesrx.github.io/publication/fda_bayerndsegidencgh/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayerndsegidencgh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

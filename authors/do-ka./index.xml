@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Do KA. on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/do-ka./</link>
+    <description>Recent content in Do KA. on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Nov 2012 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/do-ka./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iBAG: integrative Bayesian analysis of high-dimensional multiplatform genomics data</title>
+      <link>https://bayesrx.github.io/publication/ibag/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/ibag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

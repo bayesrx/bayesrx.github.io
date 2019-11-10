@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennings EM on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/jennings-em/</link>
+    <description>Recent content in Jennings EM on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/jennings-em/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian methods for expression-based integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/bayesianexpintgeno/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesianexpintgeno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Bayesian methods for integration of various types of genomics data</title>
+      <link>https://bayesrx.github.io/publication/hierbayesintgenomics/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/hierbayesintgenomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

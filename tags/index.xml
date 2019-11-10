@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BayesRx</title>
+    <link>https://bayesrx.github.io/tags/</link>
+    <description>Recent content in Tags on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Snapshot Overview</title>
+      <link>https://bayesrx.github.io/tags/snapshot-overview/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/tags/snapshot-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian graphical/network models</title>
+      <link>https://bayesrx.github.io/tags/bayesian-graphical/network-models/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/tags/bayesian-graphical/network-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Integrative models</title>
+      <link>https://bayesrx.github.io/tags/bayesian-integrative-models/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/tags/bayesian-integrative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integral</title>
+      <link>https://bayesrx.github.io/tags/integral/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/tags/integral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical</title>
+      <link>https://bayesrx.github.io/tags/clinical/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/tags/clinical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional data analyses</title>
+      <link>https://bayesrx.github.io/tags/functional-data-analyses/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/tags/functional-data-analyses/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

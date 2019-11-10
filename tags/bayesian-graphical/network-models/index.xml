@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian graphical/network models on BayesRx</title>
+    <link>https://bayesrx.github.io/tags/bayesian-graphical/network-models/</link>
+    <description>Recent content in Bayesian graphical/network models on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/tags/bayesian-graphical/network-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalized Integrated Network Modeling of the Cancer Proteome Atlas</title>
+      <link>https://bayesrx.github.io/publication/precise/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/precise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Varying-Sparsity Regression Models with Application to Cancer Proteogenomics</title>
+      <link>https://bayesrx.github.io/publication/behavior/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Regression</title>
+      <link>https://bayesrx.github.io/publication/bayesgraphreg/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesgraphreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://bayesrx.github.io/publication/bayessparsegraph/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayessparsegraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DINGO: differential network analysis in genomics</title>
+      <link>https://bayesrx.github.io/publication/dingo/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/dingo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonlinear Model Selection for Gene Regulatory Networks</title>
+      <link>https://bayesrx.github.io/publication/bayesnonlinearselgeneregnetworks./</link>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesnonlinearselgeneregnetworks./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Sparse Graphical Models for Classification with Application to Protein Expression Data</title>
+      <link>https://bayesrx.github.io/publication/bayessparsegraph_protein/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayessparsegraph_protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic gene signature identification using causal structure learning: applications in kidney cancer. </title>
+      <link>https://bayesrx.github.io/publication/prognosticgeneidenstructurelearning/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/prognosticgeneidenstructurelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Joint Selection of Genes and Pathways: Applications in Multiple Myeloma Genomics. Cancer</title>
+      <link>https://bayesrx.github.io/publication/bayejtselgenespathways/</link>
+      <pubDate>Sun, 07 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayejtselgenespathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian Network Analysis of Genomic Data</title>
+      <link>https://bayesrx.github.io/publication/intbayesiannetgeno/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intbayesiannetgeno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian sparse graphical models and their mixtures</title>
+      <link>https://bayesrx.github.io/publication/bayessparsegraphicalmixtures/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayessparsegraphicalmixtures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative network-based Bayesian analysis of diverse genomics data</title>
+      <link>https://bayesrx.github.io/publication/-intnetworkbayesiandiversegeno/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/-intnetworkbayesiandiversegeno/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

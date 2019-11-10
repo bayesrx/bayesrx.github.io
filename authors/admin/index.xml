@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/admin/</link>
+    <description>Recent content in admin on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://bayesrx.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://bayesrx.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/author/admin/</guid>
+      <description>Dr. Veera Baladandayuthapani is currently a Professor in the Department of Biostatistics at University of Michigan (UM), where he is also the Associate Director of the Center for Cancer Biostatistics. He joined UM in Fall 2018 after spending 13 years in the Department of Biostatistics at University of Texas MD Anderson Cancer Center, Houston, Texas, where was a Professor and Institute Faculty Scholar and held adjunct appointments at Rice University, Texas A&amp;amp;M University and UT School of Public Health.</description>
+    </item>
+    
+  </channel>
+</rss>

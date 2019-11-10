@@ -1,0 +1,147 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BayesRx on BayesRx</title>
+    <link>https://bayesrx.github.io/</link>
+    <description>Recent content in BayesRx on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BayesRx Group Current &amp; Future Research Efforts</title>
+      <link>https://bayesrx.github.io/publication/snapshot/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Integrated Network Modeling of the Cancer Proteome Atlas</title>
+      <link>https://bayesrx.github.io/publication/precise/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/precise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Varying-Sparsity Regression Models with Application to Cancer Proteogenomics</title>
+      <link>https://bayesrx.github.io/publication/behavior/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Tests for Large Tree-Structured Data</title>
+      <link>https://bayesrx.github.io/publication/treestattest/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/treestattest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Graphical Regression</title>
+      <link>https://bayesrx.github.io/publication/bayesgraphreg/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesgraphreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction-Oriented Marker Selection (PROMISE): With Application to High-Dimensional Regression</title>
+      <link>https://bayesrx.github.io/publication/promise/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/promise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiologic image‐based statistical shape analysis of brain tumours</title>
+      <link>https://bayesrx.github.io/publication/radimagestatshape-analysis-/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/radimagestatshape-analysis-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tight Junction Protein 1 Modulates Proteasome Capacity and Proteasome Inhibitor Sensitivity in Multiple Myeloma via EGFR/JAK1/STAT3 Signaling</title>
+      <link>https://bayesrx.github.io/publication/tightjunctionproteinegfrsignaling/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/tightjunctionproteinegfrsignaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Multi-Dimensional Graphical Models: A Unified Bayesian Framework</title>
+      <link>https://bayesrx.github.io/publication/bayessparsegraph/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayessparsegraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase II study of the c-MET inhibitor tivantinib (ARQ 197) in patients with relapsed or relapsed/refractory multiple myeloma</title>
+      <link>https://bayesrx.github.io/publication/phase2cmet/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/phase2cmet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCAN: Probabilistic correlation analysis of two non-normal data sets</title>
+      <link>https://bayesrx.github.io/publication/pcan/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/pcan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semiparametric Bayesian Model for Comparing DNA Copy Numbers</title>
+      <link>https://bayesrx.github.io/publication/semiparambayescomparingdnacopynum/</link>
+      <pubDate>Fri, 29 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/semiparambayescomparingdnacopynum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEMARCATE: Density-based magnetic resonance image clustering for assessing tumor heterogeneity in cancer</title>
+      <link>https://bayesrx.github.io/publication/demarcate/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/demarcate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Nonparametric Bayesian Technique for High-Dimensional Regression</title>
+      <link>https://bayesrx.github.io/publication/fda_nonparabayestechhigh-dimreg/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_nonparabayestechhigh-dimreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Bayesian analysis of neuroimaging-genetic data with application to cocaine dependence</title>
+      <link>https://bayesrx.github.io/publication/intbayneuroimg-genecocaine/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intbayneuroimg-genecocaine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

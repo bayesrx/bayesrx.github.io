@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lin, H.Y on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/lin-h.y/</link>
+    <description>Recent content in Lin, H.Y on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/lin-h.y/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phase II study of the c-MET inhibitor tivantinib (ARQ 197) in patients with relapsed or relapsed/refractory multiple myeloma</title>
+      <link>https://bayesrx.github.io/publication/phase2cmet/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/phase2cmet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

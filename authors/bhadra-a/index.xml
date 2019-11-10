@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhadra, A on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/bhadra-a/</link>
+    <description>Recent content in Bhadra, A on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/bhadra-a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrative Sparse Bayesian analysis of high- dimensional multi-platform Genomic data in Glioblastoma</title>
+      <link>https://bayesrx.github.io/publication/intmulti-modalcorimggenoglioblastoma/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intmulti-modalcorimggenoglioblastoma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical on BayesRx</title>
+    <link>https://bayesrx.github.io/tags/clinical/</link>
+    <description>Recent content in Clinical on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/tags/clinical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tight Junction Protein 1 Modulates Proteasome Capacity and Proteasome Inhibitor Sensitivity in Multiple Myeloma via EGFR/JAK1/STAT3 Signaling</title>
+      <link>https://bayesrx.github.io/publication/tightjunctionproteinegfrsignaling/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/tightjunctionproteinegfrsignaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase II study of the c-MET inhibitor tivantinib (ARQ 197) in patients with relapsed or relapsed/refractory multiple myeloma</title>
+      <link>https://bayesrx.github.io/publication/phase2cmet/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/phase2cmet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

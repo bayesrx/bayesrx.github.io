@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functional data analyses on BayesRx</title>
+    <link>https://bayesrx.github.io/tags/functional-data-analyses/</link>
+    <description>Recent content in Functional data analyses on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/tags/functional-data-analyses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Nonparametric Bayesian Technique for High-Dimensional Regression</title>
+      <link>https://bayesrx.github.io/publication/fda_nonparabayestechhigh-dimreg/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_nonparabayestechhigh-dimreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Bayesian hierarchical structured variable selection methods with application to MIP studies in breast cancer.</title>
+      <link>https://bayesrx.github.io/publication/fda_-bayeshierstructvarselmip/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_-bayeshierstructvarselmip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Joint Selection of Genes and Pathways: Applications in Multiple Myeloma Genomics. Cancer</title>
+      <link>https://bayesrx.github.io/publication/bayejtselgenespathways/</link>
+      <pubDate>Sun, 07 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayejtselgenespathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Variable Selection in Linear Regression in One Pass for Large Datasets</title>
+      <link>https://bayesrx.github.io/publication/bayesvarselectionregonepass/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesvarselectionregonepass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian disease classification using copy number data</title>
+      <link>https://bayesrx.github.io/publication/fda_bayediseaclasscopynum/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayediseaclasscopynum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian ensemble methods for survival prediction in gene expression data</title>
+      <link>https://bayesrx.github.io/publication/fda_bayeensemblesurvpredexpr/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayeensemblesurvpredexpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Shared Copy Number Aberrations for Array CGH Data: the Linear-Median Method</title>
+      <link>https://bayesrx.github.io/publication/fda_estcghlinear-med/</link>
+      <pubDate>Sun, 12 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_estcghlinear-med/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Random Segmentation Models to Identify Shared Copy Number Aberrations for Array CGH Data</title>
+      <link>https://bayesrx.github.io/publication/fda_bayerndsegidencgh/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayerndsegidencgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast PCA and Bayesian Variable Selection for Large Data Sets Based on SQL and UDFs</title>
+      <link>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced rank mixed effects models for spatially correlated hierarchical functional data.</title>
+      <link>https://bayesrx.github.io/publication/fda_reducedrankmixedeffectsspatialcorrelated/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_reducedrankmixedeffectsspatialcorrelated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hierarchical Spatially Correlated Functional Data Analysis with Application to Colon Carcinogenesis</title>
+      <link>https://bayesrx.github.io/publication/fda_bayeshierspatialcorcolon/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_bayeshierspatialcorcolon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

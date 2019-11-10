@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on BayesRx</title>
+    <link>https://bayesrx.github.io/home/</link>
+    <description>Recent content in Homes on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://bayesrx.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://bayesrx.github.io/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://bayesrx.github.io/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
+    </item>
+    
+    <item>
+      <title>BayesRx Group</title>
+      <link>https://bayesrx.github.io/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/skills/</guid>
+      <description>We are a group of biostatisticians and data scientists, working at the intersection of statistics, biology and medicine. Our research explores the potential of Bayesian probabilistic models and machine learning methods to assist in medical and health sciences. These methods are motivated by large and complex datasets such as high-throughput genomics, epigenomics, transcriptomics and proteomics as well as high-resolution neuro- and cancer- imaging. A special focus is on developing integrative models combining different sources of data for biomarker discovery and clinical prediction to aid precision/translational medicine.</description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://bayesrx.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://bayesrx.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Snapshot</title>
+      <link>https://bayesrx.github.io/home/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://bayesrx.github.io/home/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Themes</title>
+      <link>https://bayesrx.github.io/home/panel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/panel/</guid>
+      <description> Bayesian Integrative models multi-platform genomics and imaging
+   Bayesian graphical/network models high-throughput genomic and proteomic
+   Functional Data Analyses    Translational Clinical Applications    </description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://bayesrx.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://bayesrx.github.io/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/publications/</guid>
+      <description> Quickly discover relevant content by [filtering publications]   </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://bayesrx.github.io/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://bayesrx.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://bayesrx.github.io/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://bayesrx.github.io/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alumni</title>
+      <link>https://bayesrx.github.io/home/alumni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/alumni/</guid>
+      <description>Postdoctoral Researchers
+ David Rossell Ribera, 2006-2007, (with Valen E. Johnson)  Current position: Assistant Professor, Dept of Statistics, University of Warwick  Suprateek Kundu, 2012-2014, (with Bani K Mallick)  Current position: Assistant Professor, Dept. of Biostatistics, Emory University  Wenting Wang, 2010 - 2013 (with Kim-Ahn Do)  Current position: Biostatistician, Biogen Inc.  Lin Zhang, 2012-present (joint with Jeff Morris)  Current position: Assistant Professor, Dept. of Biostatistics, University of Minnesota  Bruce Bugbee, 2014 – 2015 (with Jeffrey S.</description>
+    </item>
+    
+    <item>
+      <title>Collaborators</title>
+      <link>https://bayesrx.github.io/home/collaborator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/collaborator/</guid>
+      <description> Alexey Nesvizhskii Arvind Rao Bani K. Mallick Christine B. Peterson Francesco Stingo Jeffrey S. Morris Lana Garmire Min Jin Ha Raymond J. Carroll   </description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>https://bayesrx.github.io/home/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/software/</guid>
+      <description>Most of our softwares are available on our github site:  https://github.com/umich-biostatistics
+ https://github.com/bayesrx
+Here are some links to some Shiny Apps we have developed:
+ PRECISE (Ha et al, 2018, Nature Scientific Reports): https://mjha.shinyapps.io/PRECISE/ Bayesian Graphical Regression (Ni et al, 2018, JASA): https://nystat.shinyapps.io/MMCR-app/ BEHAVIOUR (Ni et al, 2019, JASA): https://www.stat.tamu.edu/~yni/behavior.html  </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://bayesrx.github.io/home/course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/course/</guid>
+      <description> BIOS 651 Introduction to Generalized Linear Regression  </description>
+    </item>
+    
+    <item>
+      <title>Position</title>
+      <link>https://bayesrx.github.io/home/position/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/position/</guid>
+      <description>We are recruiting a post-doc fellowship position. Please send us your resume to me, if you are interested in our work.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://bayesrx.github.io/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayesrx.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

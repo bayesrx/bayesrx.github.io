@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ordonez, C on BayesRx</title>
+    <link>https://bayesrx.github.io/authors/ordonez-c/</link>
+    <description>Recent content in Ordonez, C on BayesRx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Oct 2014 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bayesrx.github.io/authors/ordonez-c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Variable Selection in Linear Regression in One Pass for Large Datasets</title>
+      <link>https://bayesrx.github.io/publication/bayesvarselectionregonepass/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/bayesvarselectionregonepass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating multi-platform genomic data using hierarchical Bayesian relevance vector machines</title>
+      <link>https://bayesrx.github.io/publication/intmultiplatformhierbayesianrvm/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/intmultiplatformhierbayesianrvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data mining algorithms as a service in the cloud exploiting relational database systems</title>
+      <link>https://bayesrx.github.io/publication/dataminingalgcloudreldata/</link>
+      <pubDate>Sat, 22 Jun 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/dataminingalgcloudreldata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast PCA and Bayesian Variable Selection for Large Data Sets Based on SQL and UDFs</title>
+      <link>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 -0400</pubDate>
+      
+      <guid>https://bayesrx.github.io/publication/fda_fastpcabayesvarseldb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
